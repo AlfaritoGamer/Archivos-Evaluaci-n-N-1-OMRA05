@@ -1,0 +1,5 @@
+firstname = input("Nombre: ")
+lastname = input("Apellido: ")
+seccion = input("Número de la seccion: ")
+sede = input("Sede: ")
+print("Hola " + firstname, lastname + "! Tu sección es "+ seccion +" y estas en la sede de " + sede)
